@@ -3,7 +3,7 @@
 * Udemy 
     * Python | 파이썬
     * SQL 
-    * Web Development 웹 개발
+    * Web Development | 웹 개발
     
 * FreeCodeCamp
 
