@@ -2,7 +2,7 @@
 
 # Table of Contents
 1. [Udemy](#Udemy)
-2. [FreeCodeCamp](#FreeCodeCampe)
+2. [FreeCodeCamp](#FreeCodeCamp)
 3. [Codecademy](#Codecademy)
 4. [Kaggle](#Kaggle)
 5. [EDX](#EDX)
