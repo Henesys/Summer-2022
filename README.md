@@ -1,18 +1,30 @@
 # 2022 여름 학습
 
-* Udemy 
+# Table of Contents
+1. [Udemy](#Udemy)
+2. [FreeCodeCamp](#FreeCodeCamp)
+3. [Codecademy](#Codecademy)
+4. [Kaggle](#Kaggle)
+5. [EDX](#EDX)
+6. [Leetcode](#Leetcode)
+7. [Other](#Other)
+
+## Udemy 
     * Python | 파이썬
     * SQL 
-    * Web Development 웹 개발
+    * Web Development | 웹 개발
     
-* FreeCodeCamp
+## FreeCodeCamp
 
-* Codecademy
+## Codecademy
     * Data Structures
     * Algorithms
     
-* EDX
+## Kaggle
+    
+## EDX
 
-* Leetcode
+## Leetcode
 
-* Kaggle
+## Other
+   * [Eloquent Javascript](https://eloquentjavascript.net/)
